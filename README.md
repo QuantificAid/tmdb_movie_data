@@ -1,5 +1,5 @@
 # tmdb_movie_data
-***"The Movie Data Base" - ***  
+***"The Movie Data Base" -***  
 ***A Project in course of Udacity's Data Analyst Nanodegree Program***
 
 ## Summary
